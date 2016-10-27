@@ -1,1 +1,1 @@
-Ceci est un test de pull request.
+Ceci est un test de pull request pour la formation Github.
